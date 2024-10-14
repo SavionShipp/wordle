@@ -7,3 +7,14 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+
+Word.create(name:"Ghost")
+Word.create(name:"Quest")
+Word.create(name:"Dream")
+Word.create(name:"Vader")
+Word.create(name:"Ewoks")
+Word.create(name:"Crypt")
+Word.create(name:"Saber")
+Word.create(name:"Zonal")
+Word.create(name:"Turbo")
+Word.create(name:"Debug")
